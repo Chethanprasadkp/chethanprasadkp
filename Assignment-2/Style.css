@@ -1,0 +1,208 @@
+	*{
+		margin: 0px;
+		padding: 0px;
+	}
+
+.desert
+{
+    width: 100%;
+    height: 550px;
+    opacity: 1.8;
+    text-align: center;
+    display: block;
+    margin: 0%; 
+  
+   
+}
+
+
+
+.b1
+{
+    position: absolute;
+    top: 80px;
+    right: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    width: 100;
+    
+}
+
+.b2
+{
+    position: absolute;
+    top: 150px;
+    right: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 100;
+   
+}
+
+.a2
+{
+    position: absolute;
+    top: 170px;
+    left: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+.a1
+{
+    position: absolute;
+    top: 80px;
+    left: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+   
+}
+
+.sun{
+ width:4cm;
+ height: 4cm;
+ padding-left: 110px;
+ border-width:50px;
+ border-radius: 50%;
+ font-family: 'Klee One',cursive,'serif',sans-serif;
+ font-size: 20px;
+ padding-bottom: 10px;
+ padding-top: 580 px;
+}
+
+.sa{
+	font-family:  bold;
+	padding-left: 140px;
+	font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+   padding-bottom: 15px;
+
+}
+
+
+
+.humidityimg
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 80px;
+    right: 600px;
+}
+.humiditytxt
+{
+    position: absolute;
+    bottom: 30px;
+    right: 600px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.humiditynum
+{
+    position: absolute;
+    bottom: 0px;
+    right: 600px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.co2img
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 80px;
+    right: 350px;
+
+}
+.co2txt
+{
+    position: absolute;
+    bottom: 30px;
+    right: 300px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.co2num
+{
+    position: absolute;
+    bottom: 0px;
+    right: 350px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.tvocimg
+{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 80px;
+    right: 100px;
+    
+}
+.tvoctxt
+{
+    position: absolute;
+    bottom: 30px;
+    right: 50px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+.tvocnum
+{
+    position: absolute;
+    bottom: 0px;
+    right: 110px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    font-size: 20px;
+}
+
+
+.box2{
+   
+    display: flex;
+    flex-direction: column;
+   padding-bottom: 450px;
+   border: 500px;
+}
+
+.external
+{
+    font-size: 40px; 
+    position: absolute;
+    bottom: 100px;
+    left: 400px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    opacity: 0.8; 
+}
+.internal
+{
+    font-size: 40px; 
+    position: absolute;
+    bottom: 30px;
+    left: 400px;
+    font-family: 'Klee One',cursive,'serif',sans-serif;
+    opacity: 0.8; 
+}
+.dash1
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 120px;
+    left: 450px;    
+}
+
+.dash2
+{
+    color: red;
+    font-size: 40px;
+    position: absolute;
+    bottom: 50px;
+    left: 450px;
+}
+
+
